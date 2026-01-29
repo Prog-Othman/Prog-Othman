@@ -1,6 +1,6 @@
 # I'm Othman Nakraoui 👋
 # 💫 About Me:
-🔭 I'm currently working on: Web development Mobile projects using HTML, CSS, and JavaScript,flutter <br>👯 I'm looking to collaborate on: Web applications and Python projects<br>🤝 I'm looking for help with: Advanced JavaScript concepts and Python development<br>🌱 I'm currently learning: Full-stack development with Python and front-end technologies (HTML, CSS, JavaScript)<br>💬 Ask me about: Web development, HTML/CSS styling, and basic Python programming<br>⚡ Fun fact: I'm mastering both front-end (HTML/CSS/JavaScript) and back-end (Python/C#/php) and Database (MySql) technologies!
+🔭 I'm currently working on: Web development Mobile projects using HTML, CSS,JavaScript and flutter <br>👯 I'm looking to collaborate on: Web applications and Python projects<br>🤝 I'm looking for help with: Advanced JavaScript concepts and Python development<br>🌱 I'm currently learning: Full-stack development with Python and front-end technologies (HTML, CSS, JavaScript)<br>💬 Ask me about: Web development, HTML/CSS styling, and basic Python programming<br>⚡ Fun fact: I'm mastering both front-end (HTML/CSS/JavaScript) and back-end (Python/C#/php) and Database (MySql) technologies!
 
 
 # 💻 Tech Stack:
